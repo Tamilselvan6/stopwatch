@@ -39,7 +39,7 @@ You can customize the stopwatch according to your preferences:
 
 ## Screenshots
 
-![My Stop Watch](Stopwatch.png)
+![My Stop Watch](stopwatch.png)
 
 ## Author
 Tamilselvan
